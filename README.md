@@ -5,7 +5,7 @@ In this project, I used to detect roadlanes from an image or a video by using Op
 # Line detection
 ![](images/1.png)
 
-#Choosing the region of interest
+# Choosing the region of interest
 ![](images/2.png)
 
 # Drawing straight line
